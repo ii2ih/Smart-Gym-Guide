@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>دليل الجيم الذكي - Smart Gym Guide</title>
+    <style>
+        body {
+            background-color: #0f172a; /* لون غامق فخم */
+            color: #f8fafc;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0; padding: 40px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            border: 2px solid #38bdf8; /* إطار أزرق نيون */
+            padding: 30px;
+            border-radius: 20px;
+            background: rgba(30, 41, 59, 0.7);
+        }
+        h1 { color: #38bdf8; text-align: center; text-transform: uppercase; border-bottom: 2px solid #38bdf8; padding-bottom: 10px; }
+        h2 { color: #fbbf24; border-right: 5px solid #fbbf24; padding-right: 10px; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #1e293b;
+        }
+        th, td {
+            padding: 15px;
+            text-align: right;
+            border-bottom: 1px solid #334155;
+        }
+        th { background-color: #38bdf8; color: #0f172a; }
+        .btn {
+            display: inline-block;
+            padding: 8px 15px;
+            background-color: #fbbf24;
+            color: #000;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            font-size: 12px;
+        }
+        .footer { text-align: center; margin-top: 30px; font-size: 12px; color: #94a3b8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 دليل الجيم الذكي للمبتدئين</h1>
+        
+        <h2>🔥 نظام الوقود (السعرات)</h2>
+        <p>لحساب سعراتك بسرعة: <b>وزنك × 30</b>. إذا تبي تضخم زود 500، وإذا تبي تنشف انقص 500.</p>
+
+        <h2>🏋️ جدول التمرين (Full Body)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>التمرين</th>
+                    <th>الجلسات</th>
+                    <th>الشرح التفاعلي</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Chest Press (صدر)</td>
+                    <td>3 × 12</td>
+                    <td><a href="https://www.youtube.com/shorts/8iPEn_nS9s8" class="btn">مشاهدة الفيديو 🎥</a></td>
+                </tr>
+                <tr>
+                    <td>Lat Pulldown (ظهر)</td>
+                    <td>3 × 12</td>
+                    <td><a href="https://www.youtube.com/shorts/CAwf7n6Luuc" class="btn">مشاهدة الفيديو 🎥</a></td>
+                </tr>
+                <tr>
+                    <td>Squats (أرجل)</td>
+                    <td>4 × 10</td>
+                    <td><a href="https://www.youtube.com/shorts/X0qC9O5igVs" class="btn">مشاهدة الفيديو 🎥</a></td>
+                </tr>
+                <tr>
+                    <td>Dumbbell Press (كتف)</td>
+                    <td>3 × 10</td>
+                    <td><a href="https://www.youtube.com/shorts/qEwK9H_W_O8" class="btn">مشاهدة الفيديو 🎥</a></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="footer">
+            هذا الدليل تم توليده برمجياً لصالح متجر [اسمك] - 2026
+        </div>
+    </div>
+</body>
+</html>
